@@ -3,9 +3,9 @@ const mineflayer = require("mineflayer");
 const CONFIG = {
   host: "mc.leftypvp.net",
   port: 25565,
-  username: "username",
+  username: "1saurav1",
   version: "1.21.1",
-  loginPassword: "password",
+  loginPassword: "sauravmishra",
   warpCommand: "/is warp food"
 };
 
@@ -99,4 +99,5 @@ async function autoEatGapple() {
     isEating = false;
     waitingForEffect = false;
   }
+
 }
