@@ -99,5 +99,4 @@ async function autoEatGapple() {
     isEating = false;
     waitingForEffect = false;
   }
-
 }
